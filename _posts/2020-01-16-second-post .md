@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My first post
+title: My second post
 categories: [travel, australia]
 ---
 

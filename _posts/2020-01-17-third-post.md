@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My first post
+title: My third post
 categories: [sefl care, bali]
 ---
 
